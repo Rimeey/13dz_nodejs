@@ -1,0 +1,12 @@
+{
+  "name": "13dz_nodejs",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "home": "node index.js"
+  },
+  "author": "Timur Shamrai",
+  "license": "ISC"
+}
